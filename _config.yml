@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: azure-recovery-services.api.streamdata.gallery
+title: Streamdata Gallery Azure Recovery Services
+url: azure-recovery-services.streamdata.gallery
 tag: Azure Recovery Services
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: azure-recovery-services
 github_branch: master
 collections:
