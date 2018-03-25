@@ -13,8 +13,8 @@ tags:
 - Recovery
 - Microsoft
 - Backup
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-25"
+modified: "2018-03-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-recovery-services/master/_listings/azure-recovery-services/apis.yaml
 specificationVersion: "0.14"
 apis:
