@@ -1,10 +1,11 @@
 ---
 swagger: "2.0"
 x-collection-name: Azure Recovery Services
-x-complete: 1
+x-complete: 0
 info:
-  title: RecoveryServicesClient
+  title: Azure Recovery Service API Vault Extended Info Update
   version: 1.0.0
+  description: Update vault extended info.
 host: management.azure.com
 basePath: /
 schemes:
@@ -286,18 +287,17 @@ paths:
           description: OK
       tags:
       - Vault Extended Info
-  ? /Subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.RecoveryServices/vaults/{vaultName}/usages
-  : get:
-      summary: Usages List By Vaults
-      description: Fetches the usages of the vault.
-      operationId: Usages_ListByVaults
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-recoveryservicesvaultsvaultnameusages-get
-      parameters:
-      - in: query
-        name: No Name
-      responses:
-        200:
-          description: OK
-      tags:
-      - Usages Vaults
+x-streamrank:
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
 ---
