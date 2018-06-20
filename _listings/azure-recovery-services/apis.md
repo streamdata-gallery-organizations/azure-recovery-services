@@ -7,10 +7,10 @@ description: Learn how to use Site Recovery for business continuity and disaster
   and virtual machines to the cloud or to a secondary datacenter.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-site-recovery.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure Recovery Services
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-recovery-services/master/_listings/azure-recovery-services/apis.md
 specificationVersion: "0.14"
 apis:
